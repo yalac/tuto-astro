@@ -1,4 +1,6 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
+
 title: Mon deuxième article de blog
 author: Yalac
 description: "Après avoir appris Astro, je ne pouvais plus m'arrêter !"
